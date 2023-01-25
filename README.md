@@ -2,6 +2,22 @@
 
 Deep Learning projects with reusable functions and intuitive visualizations
 
+## Roadmap
+
+1. Linear Algebra: Intro, Cheatsheet and Code
+2. Multivariate Calculus: Intro, Cheatsheet and Code
+3. Statistics: Intro, Cheatsheet and Code
+4. Probability: Intro, Cheatsheet and Code
+5. Mathematics for Machine Learning
+6. Machine Learning from First Principles
+7. Deep Learning from First Principles
+8. Convolutional Neural Networks Intuition & Implementation
+9. Recurrent Neural Networks Intuition & Implementation
+10. Reinforcement Learning
+11. Transformers, Attention & GPT
+12. Natural Language Processing with Transformers
+13. Generic Transformers Architecture for Text, Code & Images
+
 ### Image classification:
 
 Choose an image classification dataset from a repository such as ImageNet or Kaggle and build a deep learning model using PyTorch to classify the images. This could be a binary classification problem (e.g., cat vs dog) or a multi-class classification problem (e.g., different types of animals).
